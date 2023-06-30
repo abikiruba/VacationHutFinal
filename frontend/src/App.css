@@ -335,7 +335,8 @@ table, th, td {
 
 .carouselalign {
   margin-top: 35px;
-  position: relative; /* Add position relative to the parent div */
+  position: relative; 
+  /* Add position relative to the parent div */
   /* background-color: rgba(240, 224, 218, 0.7) !important; */
 }
 
